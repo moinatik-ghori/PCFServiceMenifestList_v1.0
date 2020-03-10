@@ -1,0 +1,26 @@
+
+
+
+div#loading {
+    width: 35px;
+    height: 35px;
+    display: none;
+    background: url(/static/loadingimage.gif) no-repeat;
+    cursor: wait;
+    }
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">// <![CDATA[
+        function loading(){
+            $("#loading").show();
+            $("#content").hide();
+        }
+// ]]></script>
+
+<div class='container'>
+    <h3>PCF Service Menifest List</h3>
+        <form>
+            <a href=# id=test><button class='btn btn-default'>Generate File</button></a>
+        </form>
+
+</div>

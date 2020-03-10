@@ -1,0 +1,15 @@
+{
+  organizations(name: $t1_orgName) {
+    orgName: name
+    managers {
+      managerName: name
+    }
+    spaces {
+      apps {
+        appName: name
+        state
+
+      }
+    }
+  }
+}

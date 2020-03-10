@@ -1,0 +1,74 @@
+{
+  "Legaldocuments related to selling - SEN0001178": {
+    "orgName": [
+      "order-capture-com-tier"
+    ]
+  },
+  "OrderUp Sell - base functionality - SEN0001177": {
+    "orgName": [
+      "orderup-sell"
+    ]
+  },
+  "SupplyChain - SEN0001185": {
+    "orgName": [
+      "com-dms"
+    ]
+  },
+  "CustomerOrder Management-SRE - SEN0001817": {
+    "orgName": [
+      "pr-com-internal",
+      "com-mirrormaker",
+      "pr-com-203715"
+    ]
+  },
+  "AvailableTo Sell-SEN0001189": {
+    "orgName": [
+      "AvailableToSell"
+    ]
+  },
+  "PurchaseOrder Create/Management/Pick - SEN0001193": {
+    "orgName": [
+      "COM-PO"
+    ]
+  },
+  "Authorize/ Reversal / Bill / Refund - SEN0001190": {
+    "orgName": [
+      "COMPayment"
+    ]
+  },
+  "Platform - SEN0001195": {
+    "orgName": [
+      "sync-sterling",
+      "com-platform",
+      "com-order-capture"
+    ]
+  },
+  "Orderlife cycle management - SEN0001192": {
+    "orgName": [
+      "COM-ONLINE"
+    ]
+  },
+  "OrderUp - Modify order post sale - SEN0001187": {
+    "orgName": [
+      "orderup-modify"
+    ]
+  },
+  "OrderVisibility - SEN0001194": {
+    "orgName": [
+      "com-order-searchview"
+    ]
+  },
+  "OrderUp - Release - SEN0001186": {
+    "orgName": [
+      "order-tasking",
+      "order-tasking"
+    ]
+  },
+  "CustomerOrder Management (COM ) Order Capture (Backend) - SEN0001180": {
+    "orgName": [
+      "com-google-express",
+      "com-quotes",
+      "OrderTransmitProxy"
+    ]
+  }
+}

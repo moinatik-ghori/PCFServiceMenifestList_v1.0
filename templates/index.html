@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{%block head %}
+<h1> List of orgs </h1>
+{% endblock %}
+
+
+{%block Body %}
+    {% for item in data %}
+        <p> {{ item }}  </p>
+    {% endfor %}
+
+    {% for item in data1 %}
+        <p> {{ item }}  </p>
+    {% endfor %}
+{% endblock %}
